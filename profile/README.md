@@ -1,4 +1,4 @@
-<div align="center"><img alt="logo" src="https://raw.githubusercontent.com/plonegovbr/plonegovbr/main/docs/plonegovbr.png" width="150" /></div>
+<div align="center"><img alt="logo" src="https://raw.githubusercontent.com/plonegovbr/.github/main/docs/plonegovbr.png" width="150" /></div>
 
 ## Sobre a PloneGov-Br
 
