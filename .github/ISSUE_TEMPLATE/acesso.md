@@ -3,7 +3,7 @@ name: 'PloneGov-Br: Requisitar acesso'
 about: Aplicação para acesso de escrita aos repositórios da PloneGov-Br
 title: Por favor, me adicione a PloneGov-Br
 labels: Acesso
-assignees: '@plonegovbr/portalbrasil-gestores'
+assignees: '@plonegovbr/gestao'
 
 ---
 

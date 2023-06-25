@@ -1,6 +1,4 @@
-<div align="center"><img alt="logo" src="https://raw.githubusercontent.com/plonegovbr/plonegovbr/docs/plonegovbr.png" width="150" /></div>
-
-<h1 align="center">PloneGov-Br</h1>
+<div align="center"><img alt="logo" src="https://raw.githubusercontent.com/plonegovbr/plonegovbr/main/docs/plonegovbr.png" width="150" /></div>
 
 ## Sobre a PloneGov-Br
 
@@ -10,4 +8,4 @@
 
 ## Acesso de escrita aos repositórios
 
-Caso queira colaborar com código, documentação, design em um dos produtos que temos nessa organização, por favor, crie um [Ticket](https://github.com/plonegovbr/plonegovbr/issues).
+Caso queira colaborar com código, documentação, design em um dos produtos que temos nessa organização, por favor, crie um [Ticket](https://github.com/plonegovbr/plonegovbr/issues/new/choose).
